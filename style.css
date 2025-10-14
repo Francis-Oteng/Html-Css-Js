@@ -13,3 +13,11 @@ color: green;
 }
 
 
+.styled background{
+    background-color: yellowgreen;
+}
+
+.my-link{
+    background-color: aqua;
+    border :2px  solid black;
+}
